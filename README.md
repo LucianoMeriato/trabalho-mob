@@ -132,13 +132,5 @@ npm install react-native-screens@4.16.0 --save-exact
 ```
 ---
 
-# 🗣️ Observação
 
-Este projeto começou como base educacional e foi evoluído com melhorias práticas, demonstrando a aplicação de boas práticas de desenvolvimento mobile.
 
----
-
-# 👨‍💻 Autor
-Professor: Luiz Camilo
-
-Aprimorado por: Pietro Vitor Pezzente
